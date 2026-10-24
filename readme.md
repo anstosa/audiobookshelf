@@ -1,3 +1,18 @@
+# Audiobookshelf · personal fork
+
+> **Fork and attribution notice:** This is Ansel Santosa's fork of [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf). The upstream project belongs to its respective maintainers. This section documents my submitted contributions; it is not a claim of authorship of the upstream project.
+
+## My upstream contributions
+
+- **[Continue Series shelf for podcasts](https://github.com/advplyr/audiobookshelf/pull/4978)** · Open · October 2026 check. Proposes a podcast-library shelf for in-progress series, selecting the next unfinished episode according to serial versus episodic ordering. Not merged at the time of this update.
+
+
+
+
+---
+
+## Original upstream documentation
+
 <br />
 <div align="center">
    <img alt="Audiobookshelf Banner" src="https://github.com/advplyr/audiobookshelf/raw/master/images/banner.svg" width="600">
